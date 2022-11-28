@@ -1,0 +1,23 @@
+{
+	"id": 102,
+	"criacao": "2022-10-05 16:30:38.769",
+	"inicio": "2022-10-05 16:31:18.494",
+	"tempoAtualBrancas": 2.0,
+	"tempoAtualPretas": 1.0,
+	"jogadorAtivo": "BRANCAS",
+	"jsonPecas": "{\"pieces\":[{\"type\":\"Pawn\",\"row\":1,\"col\":0,\"white\":false},{\"type\":\"Pawn\",\"row\":6,\"col\":0,\"white\":true},{\"type\":\"Pawn\",\"row\":1,\"col\":1,\"white\":false},{\"type\":\"Pawn\",\"row\":6,\"col\":1,\"white\":true},{\"type\":\"Pawn\",\"row\":1,\"col\":2,\"white\":false},{\"type\":\"Pawn\",\"row\":6,\"col\":2,\"white\":true},{\"type\":\"Pawn\",\"row\":1,\"col\":3,\"white\":false},{\"type\":\"Pawn\",\"row\":4,\"col\":3,\"white\":false},{\"type\":\"Pawn\",\"row\":4,\"col\":4,\"white\":true},{\"type\":\"Pawn\",\"row\":1,\"col\":5,\"white\":false},{\"type\":\"Pawn\",\"row\":6,\"col\":5,\"white\":true},{\"type\":\"Pawn\",\"row\":1,\"col\":6,\"white\":false},{\"type\":\"Pawn\",\"row\":6,\"col\":6,\"white\":true},{\"type\":\"Pawn\",\"row\":1,\"col\":7,\"white\":false},{\"type\":\"Pawn\",\"row\":6,\"col\":7,\"white\":true},{\"type\":\"Rook\",\"row\":0,\"col\":0,\"white\":false},{\"type\":\"Rook\",\"row\":0,\"col\":7,\"white\":false},{\"type\":\"Rook\",\"row\":7,\"col\":0,\"white\":true},{\"type\":\"Rook\",\"row\":7,\"col\":7,\"white\":true},{\"type\":\"Knight\",\"row\":0,\"col\":1,\"white\":false},{\"type\":\"Knight\",\"row\":0,\"col\":6,\"white\":false},{\"type\":\"Knight\",\"row\":7,\"col\":1,\"white\":true},{\"type\":\"Knight\",\"row\":7,\"col\":6,\"white\":true},{\"type\":\"Bishop\",\"row\":0,\"col\":2,\"white\":false},{\"type\":\"Bishop\",\"row\":0,\"col\":5,\"white\":false},{\"type\":\"Bishop\",\"row\":7,\"col\":2,\"white\":true},{\"type\":\"Bishop\",\"row\":7,\"col\":5,\"white\":true},{\"type\":\"Queen\",\"row\":0,\"col\":3,\"white\":false},{\"type\":\"Queen\",\"row\":7,\"col\":3,\"white\":true},{\"type\":\"King\",\"row\":0,\"col\":4,\"white\":false},{\"type\":\"King\",\"row\":7,\"col\":4,\"white\":true}],\"player1\":{\"side\":0,\"codigo\":\"6788CDE2\"},\"player2\":{\"side\":1,\"codigo\":\"8F79AE\"}}",
+	"historicoMovimentos": {
+		"id": 52,
+		"jsonHistorico": "{\"whiteSrc\":[\"e2\",\"d2\"],\"whiteDest\":[\"e4\",\"d4\"],\"blackSrc\":[\"e7\",\"e5\"],\"blackDest\":[\"e5\",\"d4\"]}"
+	},
+	"fim": "",
+	"statusDaPartida": null,
+	"ofereceuEmpate": null,
+	"situacaoOferecimentoEmpate": "",
+	"chequemate": false,
+	"atualizacao": "2022-10-05 16:34:33.052",
+	"vencedor": null,
+	"ultimoMovimento": "e5;d4",
+	"ultimaJodadaBrancas": "2022-10-05 16:34:06.614",
+	"ultimaJodadaPretas": "2022-10-05 16:34:33.052"
+}
